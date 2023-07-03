@@ -3,9 +3,11 @@ table {
 	text-align : center;
 	width: 100%;
 	border : 1px solid rgb(255, 165, 0);
+	border : 0px 0px 1px 1px;
 	border-collapse : collapse;
 }
 thead th{
+	border : 1px 1px 0px 0px;
 	background : #888; 
 	color : #fff;
 }
