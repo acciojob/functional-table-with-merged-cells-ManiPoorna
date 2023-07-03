@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+table {
+	text-align : center;
+	width: 100%;
+	border : 1px solid ornage;
+	border-collapse : collapse;
+}
+tr th{
+	background : #888; 
+	color : #fff;
+}
+tr,td,th{
+	border : 1px solid orange;
+	padding: 3px 5px;
+}
+.subTotatlRow{
+	text-align : right;
+}
+
